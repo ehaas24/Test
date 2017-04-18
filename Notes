@@ -1,1 +1,9 @@
 Let's see what this baby can do
+
+Ok, from the desktop application, I performed the following steps to get this document into the master branch
+	1. Make the document. Obvious.
+	2. Make a branch: first-branch
+	3. Commit to first-branch
+	4. Sync document in app
+	5. In browser, 'Create a Pull Request'
+	6. Since there were no conflicts, we could merge	
